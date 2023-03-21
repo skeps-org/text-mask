@@ -38,7 +38,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "broccoli-merge-trees": "^3.0.0",
     "ember-cli-babel": "^6.6.0",
-    "text-mask-core": "^5.0.0"
+    "text-mask-core": "^5.1.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
